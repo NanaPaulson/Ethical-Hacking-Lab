@@ -5,4 +5,4 @@ This project is designed to provide a hands-on experience in ethical hacking by 
 - Basic use and understanding of the command line interface (CLI)
 - Fundamental Understanding of Networking
 - Understanding of the Unix Operating System(Kali-Linux, ubuntu)
-- 
+  
